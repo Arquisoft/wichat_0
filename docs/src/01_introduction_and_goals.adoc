@@ -21,11 +21,11 @@ endif::arc42help[]
 
 **WIChat** is a project that, following the path of the application developed in the past by the HappySw company, seeks to implement top-notch technologies to take the user experience to the next level when playing this online version of the famous quiz show “Saber y Ganar”.
 The project is developed by the company ChattySw, and the development team consists of the following programmers:
-- Pelayo García Varela (UO294381@uniovi.es / Github account: ElPandaP).
-- Pablo Pérez Álvarez (UO294197@uniovi.es / Github account: latiose).
-- Héctor Hernández Iglesias (UO296095@uniovi.es / Github account: HernandezIglesiasHector).
-- Juan Fernández López (UO296143@uniovi.es / Github account: juanferlop).
-- Lucas Gisbert López (UO295526@uniovi.es / Github account: LucasGisb).
+* Pelayo García Varela (UO294381@uniovi.es / Github account: ElPandaP).
+* Pablo Pérez Álvarez (UO294197@uniovi.es / Github account: latiose).
+* Héctor Hernández Iglesias (UO296095@uniovi.es / Github account: HernandezIglesiasHector).
+* Juan Fernández López (UO296143@uniovi.es / Github account: juanferlop).
+* Lucas Gisbert López (UO295526@uniovi.es / Github account: LucasGisb).
 
 
 === Requirements Overview
@@ -57,10 +57,10 @@ See https://docs.arc42.org/section-1/[Introduction and Goals] in the arc42 docum
 endif::arc42help[]
 
 To achieve this enhanced application experience, its main functionalities are:
-- **User Registration and Participation History:** Each user will have a personal account where their game data will be stored, allowing them to view their progress at any time.
-- **Question and Answer System based on Wikidata:** The various questions, accompanying images, and answer options will be generated based on information gathered from Wikidata.
-- **Chatbot and Hint System:** The user will have the optional functionality of a chatbot that, upon request, will provide a series of hints based on information retrieved from Wikidata, guiding them towards the correct answer without revealing it outright.
-- **User Interaction with the Application:** The user will interact with the application through a highly intuitive and user-friendly web front-end.
+* **User Registration and Participation History:** Each user will have a personal account where their game data will be stored, allowing them to view their progress at any time.
+* **Question and Answer System based on Wikidata:** The various questions, accompanying images, and answer options will be generated based on information gathered from Wikidata.
+* **Chatbot and Hint System:** The user will have the optional functionality of a chatbot that, upon request, will provide a series of hints based on information retrieved from Wikidata, guiding them towards the correct answer without revealing it outright.
+* **User Interaction with the Application:** The user will interact with the application through a highly intuitive and user-friendly web front-end.
 
 
 === Quality Goals
