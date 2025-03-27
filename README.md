@@ -41,8 +41,6 @@ LLM_API_KEY="YOUR-API-KEY"
 
 Note that these files must NOT be uploaded to the github repository (they are excluded in the .gitignore).
 
-An extra configuration for the LLM to work in the deployed version of the app is to create the same .env file (with the LLM_API_KEY variable) in the virtual machine (in the home of the azureuser directory).
-
 ### Launching Using docker
 For launching the propotipe using docker compose, just type:
 ```docker compose --profile dev up --build```
